@@ -1,6 +1,3 @@
-# curso-docker-udemy
-Repositório dos fontes do curso: "Docker: Ferramenta essencial para Desenvolvedores" da Udemy. 
-
 # Docker-Lab-Course
 The project 'node-mongo-compose' is a CRUD of the type Simple Page Application developed with the following technologies:
 - Backend: NodeJS;
