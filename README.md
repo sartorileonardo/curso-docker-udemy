@@ -15,3 +15,5 @@ https://www.udemy.com/curso-docker
 2. cd /node-mongo-compose/backend/
 3. docker-compose up
 4. Open in your browser: http://localhost:80
+
+![Peek 15-01-2019 17-57](https://user-images.githubusercontent.com/7613528/51206493-4f685a00-18ef-11e9-8298-bbb02be095b3.gif)
